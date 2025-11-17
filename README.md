@@ -5,4 +5,5 @@ Small repository for building a translator model (MLP) as part of the final AML 
 
 ## Key points
 - `data_prep_for_final_model.ipynb` — essential data-preparation code and scripts (train/val splits, feature preprocessing).
-- `my_translator_v2_final.ipynb` — implementation of the translator (an MLP-based model). This file contains the code to build, train and run the translator.
+- `translator_final.ipynb` — implementation of the translator (an MLP-based model). This file contains the code to build, train and run the translator.
+- `translator_v1.ipynb` - notebook, where we tested different architectures for the translator model. (not used for final submission)
